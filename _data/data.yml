@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: jbs@outlook.com
   phone: 206 790 3880
-  timezone: America/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: US/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: joelschoenberg
