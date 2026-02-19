@@ -83,7 +83,7 @@ education:
 
 experiences:
   title: Experiences
-  info: Starting with most current
+  info:
   - role: Lead Developer
     time: 2015 - Present
     company: Startup Hubs, San Francisco
