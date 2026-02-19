@@ -35,7 +35,7 @@ sidebar:
   #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Technologies
     info:
     - idiom: English
       level: Native
