@@ -35,15 +35,15 @@ sidebar:
   #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Technologies
+    title: Technologies employed
     info:
-    - idiom: English
+    - idiom: Python
       level: Native
 
-    - idiom: French
+    - idiom: .NET
       level: Professional
 
-    - idiom: Spanish
+    - idiom: Git
       level: Professional
 
   interests:
@@ -64,11 +64,17 @@ sidebar:
 career-profile:
   title: Career Summary
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
+    Beginning with developing code for the Atari 400 and IBM/XT in the 1980s
+    I have always been interested in the inner workings of computing. In the
+    1990s after being a contractor on a few gigs, I helped launch Windows 95
+    as a second level support engineer. That led to a long career in implementing 
+    software and selling platform technologies to many large companies. After 
+    mastering Microsoft technologies I moved into working with linux-based and 
+    cloud-based platforms. This led to application development and observability,
+    which I evolved into product development at Splunk, eventually leading to 
+    patents created and realizing products that helped customers solve problems 
+    around the world.
+    
     Second paragraph if required.
 education:
   title: Education
@@ -84,21 +90,17 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Architect, Innovation Engineer, Sales Engineer
+    time: 2018 - Present
+    company: Splunk
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I began as a Sales Engineer covering the same patch as my previous customers.
+      After successful implementations that led to multi-million dollar contracts, 
+      I was brought into a team integrating Splunk with new aquisitions including
+      SignalFX and Rigor. We patented three technologies that led directly to 
+      features that customers implemented for great value. I was then tagged to
+      work on the architect team that brought observability features to the 
+      sales team in a useful way by creating demos, content and solutions.
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
