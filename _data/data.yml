@@ -151,7 +151,7 @@ experiences:
     time: 1997 - 2004
     company: Boeing
     details: |
-      I was originally brought in to support the thousande of people using client devices,
+      I was originally brought in to support the thousands of people using client devices,
       including Windows, Unix and main frame terminals. Then I was assigned to create and
       implement a new management solution that was a previously failed project. After my 
       project succeeded, I was tasked with creating a new proprietary application based on 
@@ -272,12 +272,12 @@ certifications:
 recommendations:
   title: Recommendations available on request
   list:
-  - person: CxOs, product owners, peers, mentors
+#  - person: CxOs, product owners, peers, mentors
 #    email: perezyareli@example.com
 #    phone: 012 345 6789
 #    role: General Director at example.com
     recommendation: |
-      Quotations available on request!
+      CxOs, product owners, peers, mentors
 #  - person: Lara Henderson
 #    email: larah@example.com
 #    phone: 012 345 6789
