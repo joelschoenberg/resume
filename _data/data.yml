@@ -69,13 +69,12 @@ career-profile:
     1990s after being a contractor on a few gigs, I helped launch Windows 95
     as a second level support engineer. That led to a long career in implementing 
     software and selling platform technologies to many large companies. After 
-    mastering Microsoft technologies I moved into working with linux-based and 
-    cloud-based platforms. This led to application development and observability,
-    which I evolved into product development at Splunk, eventually leading to 
-    patents created and realizing products that helped customers solve problems 
-    around the world.
+    moving through Microsoft and mastering their technologies I moved into 
+    working with linux-based and cloud-based platforms. This led to application 
+    development and observability, which I evolved into product development at 
+    Splunk, eventually leading to patents created and realizing products that 
+    helped customers solve problems around the world.
     
-    Second paragraph if required.
 education:
   title: Education
   info:
@@ -91,7 +90,7 @@ experiences:
   title: Experiences
   info:
   - role: Architect, Innovation Engineer, Sales Engineer
-    time: 2018 - Present
+    time: 2018 - Present (8 years)
     company: Splunk
     details: |
       I began as a Sales Engineer covering the same patch as my previous customers.
@@ -100,29 +99,79 @@ experiences:
       SignalFX and Rigor. We patented three technologies that led directly to 
       features that customers implemented for great value. I was then tagged to
       work on the architect team that brought observability features to the 
-      sales team in a useful way by creating demos, content and solutions.
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      sales team in a useful way by creating demos, content and solutions. With 
+      the introduction of the Splunk MCP server, I focused on agentic workflows.
+      Customers include: Tableau, Starbucks
+  - role: Sales Engineer
+    time: 2017 - 2018
+    company: Appdynamics
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Worked with customers to instrument their code to prove the value of 
+      observability and then complete sales of hosted and on-premises software.
+      Showed value to .NET and Java customers on both performance and business 
+      metrics, leading to multi-million dollar purchases. Customers had both
+      exiting solutions and custom built instrumentation that was replaced
+      with Appdynamics. Some customers include: Boeing, Alaska Airlines.
+  - role: Sales Engineer
+    time: 2015 - 2017
+    company: Puppet
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      As a Sales Engineer I was responsible for proving value out of an enterprise
+      version of an open-source technology. Many customers implemented configuration
+      management using similar technology and as the SE I proved the value of moving to
+      an enterprise solution that worked across both windows and *nix variants.
+      Customers include: Nike, Microsoft, Costco
+  - role: Sales Engineer
+    time: 2015 - 2017
+    company: Puppet
+    details: |
+      As a Sales Engineer I was responsible for proving value out of an enterprise
+      version of an open-source technology. Many customers implemented configuration
+      management using similar technology and as the SE I proved the value of moving to
+      an enterprise solution that worked across both windows and *nix variants.
+      Customers include: Nike, Microsoft, Costco
+  - role: Marketing Manager, Product Manager, Sales Engineer
+    time: 2004 - 2015
+    company: Microsoft
+    details: |
+      I began with selling the Windows client platform to customers as an enterprise 
+      version, proving value in an upgrade from customers that bought new devices. 
+      In that role, I was elevated as the voice of the customers across the globe and
+      influenced how the Windows platform evolved, including delivering a demo on-stage 
+      at a Windows launch event with Bill Gates. I moved into product management for the
+      management platform following acquisitions of technologies. Then I rounded out this
+      phase of my career as the owner of Windows technologies at the Microsoft retail store,
+      including defining the global OS image as well as defining in-store experiences. 
+  
+  - role: Consultant
+    time: 2004 - 2004
+    company: Intrinsic Technologies
+    details: |
+      After implementing management technology at Boeing, I was brought on as a delivery 
+      consultant for several companies including Walmart, Sprint and General Motors.
+      I traveled to various large scale companies implementing software that was
+      responsible for managing over 100,000 seats.
+      As a Sales Engineer I was responsible for proving value out of an enterprise
+      version of an open-source technology. Many customers implemented configuration
+      management using similar technology and as the SE I proved the value of moving to
+      an enterprise solution that worked across both windows and *nix variants.
+      Customers include: Nike, Microsoft, Costco
+  - role: System Design Engineer
+    time: 1997 - 2004
+    company: Boeing
+    details: |
+      I was originally brought in to support the thousande of people using client devices,
+      including Windows, Unix and main frame terminals. Then I was assigned to create and
+      implement a new management solution that was a previously failed project. After my 
+      project succeeded, I was tasked with creating a new proprietary application based on 
+      that management platform. The visibility of this application led to being a
+      consultant based on delivering this technology at large customers around the world.
+      Customers include: Boeing Commercial Aircraft (BCA), Boeing Defense and Space, Boeing 
+      Helicopers, McDonnell Douglas
+  - role: Previous roles on request
+    time: 1968 - 1997
+    company: GATX, United Way, Dental Benefits Providers, etc.
+    details: |
 
 certifications:
   title: Patents
