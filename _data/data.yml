@@ -270,22 +270,22 @@ certifications:
 #    conference: "Comm. ACM 4 (1961), 51–55"
 
 recommendations:
-  title: Recommendations
+  title: Recommendations available on request
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: CxOs, product owners, peers, mentors
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+      Quotations available on request!
+#  - person: Lara Henderson
+#    email: larah@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      I would like to work with Alan Doe again!
 
-      He is a great employee!
+#      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
