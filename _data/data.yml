@@ -28,7 +28,7 @@ sidebar:
   #twitter: '@jekyllrb'
   #stack-overflow: # Number/Username, e.g. 123456/alandoe
   #codewars:
-  goodreads: 198932803-joel-schoenberg
+  #goodreads: 198932803-joel-schoenberg
   #mastodon: # Please include your full Mastodon link here.
   #hackerrank: # Please provide your HackerRank username.
   #leetcode: # Please provide your LeetCode username.
@@ -121,15 +121,6 @@ experiences:
       management using similar technology and as the SE I proved the value of moving to
       an enterprise solution that worked across both windows and *nix variants.
       Customers include: Nike, Microsoft, Costco
-  - role: Sales Engineer
-    time: 2015 - 2017
-    company: Puppet
-    details: |
-      As a Sales Engineer I was responsible for proving value out of an enterprise
-      version of an open-source technology. Many customers implemented configuration
-      management using similar technology and as the SE I proved the value of moving to
-      an enterprise solution that worked across both windows and *nix variants.
-      Customers include: Nike, Microsoft, Costco
   - role: Marketing Manager, Product Manager, Sales Engineer
     time: 2004 - 2015
     company: Microsoft
@@ -156,7 +147,7 @@ experiences:
       management using similar technology and as the SE I proved the value of moving to
       an enterprise solution that worked across both windows and *nix variants.
       Customers include: Nike, Microsoft, Costco
-  - role: System Design Engineer
+  - role: System Design Integration Specialist
     time: 1997 - 2004
     company: Boeing
     details: |
