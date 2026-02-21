@@ -167,43 +167,36 @@ experiences:
 certifications:
   title: Patents
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
+  - name: Integration in computer analytics system
+    start: July 2022
+    end: 
+    organization: US Patent Office
+    credentialid: 11392605
     credentialurl: www.google.com
-    credentialname: Google
+    credentialname: 
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+      A computer implemented method includes establishing, by a data intake and query system, a network connection between the data intake and query system and an application and infrastructure monitoring platform. The data intake and query system receives a data stream from the application and infrastructure monitoring platform. The computer implemented method further includes transforming the data stream while receiving the data stream to obtain a transformed data stream. Further, the transformed data stream is analyzed while receiving the data stream to generate analysis results, which are presented.
+      
+  - name: Monitoring platform job integration in computer analytics system
+    start: August 2023
     end:
-    organization: Microsoft
-    credentialid: 111-222
+    organization: US Patent Office
+    credentialid: 11734297
     credentialurl: www.github.com
-    credentialname: Github
+    credentialname: 
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      A computer implemented method includes establishing, by a data intake and query system, a network connection between the data intake and query system and an application and infrastructure monitoring platform. The data intake and query system receives a data stream from the application and infrastructure monitoring platform. The computer implemented method further includes transforming the data stream while receiving the data stream to obtain a transformed data stream. Further, the transformed data stream is analyzed while receiving the data stream to generate analysis results, which are presented.
+
+  - name: Creating a budget-based time series
+    start: December 2023
+    end: 
+    organization: US Patent Office
+    credentialid: 11838189
+    credentialurl: www.google.com
+    credentialname: 
+    details: |
+      A time series is created that measures a remaining budget amount for a given time period, where the budget amount indicates a maximum number of occurrences of an event allowed for the given time period. More specifically, the given time period is divided into multiple time intervals. For each time interval, a number of occurrences of the event are calculated and detracted from the remaining budget amount to determine a remaining budget amount at the end of the time interval. These time values and associated remaining budget amounts are used to create the time series. This time series may be monitored in real-time, and actions may be taken to avoid future occurrences of the event in response to determining that the remaining budget amount falls below a threshold.
+      
 
 #projects:
 #  title: Projects
