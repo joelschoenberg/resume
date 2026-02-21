@@ -34,17 +34,17 @@ sidebar:
   #leetcode: # Please provide your LeetCode username.
   #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: Technologies employed
-    info:
-    - idiom: Python
-      level: Native
+#  languages:
+#    title: Technologies employed
+#    info:
+#    - idiom: Python
+#      level: Native
 
-    - idiom: .NET
-      level: Professional
+#    - idiom: .NET
+#      level: Professional
 
-    - idiom: Git
-      level: Professional
+#    - idiom: Git
+#      level: Professional
 
   interests:
     title: Interests
@@ -74,6 +74,11 @@ career-profile:
     development and observability, which I evolved into product development at 
     Splunk, eventually leading to patents created and realizing products that 
     helped customers solve problems around the world.
+
+    Throughout my career, I have demonstrated passion for getting things done,
+    completing projects, showing not just technology success but value from 
+    what was implemented. Working alongside technologists and getting things
+    done is what I live for.
     
 education:
   title: Education
@@ -280,27 +285,27 @@ recommendations:
 
 #      He is a great employee!
 
-skills:
-  title: Skills &amp; Proficiency
+#skills:
+#  title: Skills &amp; Proficiency
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+#  toolset:
+#  - name: Python & Django
+#    level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
+#  - name: Javascript & jQuery
+#    level: 98%
 
-  - name: Angular
-    level: 98%
+#  - name: Angular
+#    level: 98%
 
-  - name: HTML5 & CSS
-    level: 95%
+#  - name: HTML5 & CSS
+#    level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+#  - name: Ruby on Rails
+#    level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+#  - name: Sketch & Photoshop
+#    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
